@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCV_DetectionColorShape+Transformation", "EmguCV_DetectionColorShape+Transformation\EmguCV_DetectionColorShape+Transformation.csproj", "{61B6F7EB-D117-4014-82E9-5319CE068B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B6F7EB-D117-4014-82E9-5319CE068B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B6F7EB-D117-4014-82E9-5319CE068B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B6F7EB-D117-4014-82E9-5319CE068B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B6F7EB-D117-4014-82E9-5319CE068B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66843707-30E9-4CCC-B83F-59D295D062B4}
+	EndGlobalSection
+EndGlobal
